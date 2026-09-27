@@ -31,4 +31,6 @@ class OddSumTest {
         // odd indices hold -5 and -10
         assertEquals(-15, OddSum.oddSum(new int[]{1, -5, 2, -10}));
     }
+
+
 }
