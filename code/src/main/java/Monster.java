@@ -24,7 +24,7 @@ public class Monster {
      accumulate a value together. Below, we define a class variable called
      "population", that will be incremented by one every time a constructor
      is called to create a new Monster. If this were not a class variable,
-     every instance would have its own "population", each with the the
+     every instance would have its own "population", each with the
      value 1 -- not very useful!
 
      We indicate that a variable is class variable by using the keyword
